@@ -38,7 +38,7 @@
 
     The Bitfury Group offers Investments in their Digital Asset Infrastructure. This investment tool allows large investors to diversify their portfolios by accessing Bitfury’s data centers. This is done through several investment vehicles, including direct investment and indirect engagements such as through funds, private equity and other instruments.
 
->Bitfury also has its hands in other emerging technologies such as Artificial Intelligence, in which they offer full-service AI/blockchain solutions for corporations and governments.
+    Bitfury also has its hands in other emerging technologies such as Artificial Intelligence, in which they offer full-service AI/blockchain solutions for corporations and governments.
 
 
 * Which technologies are they currently using, and how are they implementing them? 
