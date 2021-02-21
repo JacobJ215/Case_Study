@@ -111,6 +111,7 @@
     Relative to other coins suchs as ADA, NEO, EOS, and XPR even with Layer2 scalling solutions Bitcoin is still slow, less cost efficient, and less energy efficient. Building its own cryptocurrency to run on Exonum could help tackle some of Bitcoin’s short fallings. 
 
 
+-------------------------------------------------------------------------------------------------------------------
 
 Sources:
 
