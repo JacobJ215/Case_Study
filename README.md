@@ -32,7 +32,7 @@
 
     Bitfury is a global company with offices in London, Amsterdam, Tokyo, Hong Kong, Seoul, Dubai and Moscow, and data center operations in the Republic of Georgia, Canada and Norway.
 
-*What solution does this company offer that their competitors do not or cannot offer? 
+* What solution does this company offer that their competitors do not or cannot offer? 
 
     Focussing on both hardware and software The Bitfury Group is a full service blockchain development company. 
 
@@ -74,7 +74,7 @@
 
 ## Results
 
-*What has been the business impact of this company so far?
+* What has been the business impact of this company so far?
 
     With offices across the globe, Bitfury has brought blockchain and data infrastructure to clients in Europe, Asia, Canada, and Russia. 
 
@@ -108,7 +108,7 @@
 
 * Why are these technologies appropriate for your solution?
 
-    Relative to other coins suchs as ADA, NEO, EOS, and XPR even with Layer2 is Bitcoin is still slow, less cost efficient, and less energy efficient. Building its own cryptocurrency to run on Exonum could help tackle some of Bitcoin’s short fallings. 
+    Relative to other coins suchs as ADA, NEO, EOS, and XPR even with Layer2 scalling solutions Bitcoin is still slow, less cost efficient, and less energy efficient. Building its own cryptocurrency to run on Exonum could help tackle some of Bitcoin’s short fallings. 
 
 
 
