@@ -74,7 +74,7 @@
 
 ## Results
 
-* #What has been the business impact of this company so far?
+* What has been the business impact of this company so far?
 
     With offices across the globe, Bitfury has brought blockchain and data infrastructure to clients in Europe, Asia, Canada, and Russia. 
 
