@@ -47,13 +47,13 @@
 
    - Exonum: As Bitfury’s premier blockchain, Exonum, was designed to help businesses and governments adapt blockchain technology as part of their ecosystem allowing these entities to begin building their own blockchain projects. 
 
-   > The Exonum platform is an industry leader in transaction processing speed, scalability, and project security. Similar to other programmable networks such as Ethereum, Exonum allows developers to build blockchain projects and platforms with smart contracts. 
+        The Exonum platform is an industry leader in transaction processing speed, scalability, and project security. Similar to other programmable networks such as Ethereum, Exonum allows developers to build blockchain projects and platforms with smart contracts. 
 
-    >Some of Exonum’s use cases include, claim management, document verification, and counterfeit prevention. 
+        Some of Exonum’s use cases include, claim management, document verification, and counterfeit prevention. 
 
     - Peach: Peach is Bitfury’s fully customizable crypto wallet and payment network. This wallet is available to the public and can be downloaded on any mobile device.  The Peach platform also offers tools for developers to build on the Lightning Network. 
 
-    >The Lighting Network was launched in 2017 by Bitfury and Ripple. The Lightning Network was designed as a second-layer Bitcoin scaling solution. Second Layer or L2 scaling solutions are a way of scaling blockchain applications by moving transactions off-chain and by doing so this increases transaction speed. 
+        The Lighting Network was launched in 2017 by Bitfury and Ripple. The Lightning Network was designed as a second-layer Bitcoin scaling solution. Second Layer or L2 scaling solutions are a way of scaling blockchain applications by moving transactions off-chain and by doing so this increases transaction speed. 
 
 
 ## Landscape:
