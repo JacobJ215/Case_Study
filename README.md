@@ -58,9 +58,9 @@
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+### What domain of the financial industry is the company in?
 
-    Bitfury’s domain is considered blockchain development and solutions. 
+* Bitfury’s domain is considered blockchain development and solutions. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -74,7 +74,7 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* #What has been the business impact of this company so far?
 
     With offices across the globe, Bitfury has brought blockchain and data infrastructure to clients in Europe, Asia, Canada, and Russia. 
 
