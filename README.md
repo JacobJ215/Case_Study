@@ -4,17 +4,17 @@
 
 * Name of company
 
->The Bitfury Group
+    The Bitfury Group
 
 * When was the company incorporated and who are the founders of the company ?
 
->The Bitfury Group was founded in 2011 by Valery Vavilov and Valery Nebesny, who are the CEO and CTO respectively 
+    The Bitfury Group was founded in 2011 by Valery Vavilov and Valery Nebesny, who are the CEO and CTO respectively 
 
 * How did the idea for the company (or project) come about?
 
->With the purpose of creating a more secure and trusted society Bitfury began as a Bitcoin mining and hardware company. Bitfury values blockchain technology as means to safely and efficiently, secure, analyze, store and interact with data.  
+    With the purpose of creating a more secure and trusted society Bitfury began as a Bitcoin mining and hardware company. Bitfury values blockchain technology as means to safely and efficiently, secure, analyze, store and interact with data.  
 
->By 2017 the company grew to become the world’s third largest Bitcoin mining entity. Since it’s launch The Bitfury group now considers itself as the world leader in emerging technologies, and its mission has now been broadened to make the world more secure and trusted through the use of technologies such as artificial intelligence, blockchain, bitcoin and high-performance computing. 
+>>By 2017 the company grew to become the world’s third largest Bitcoin mining entity. Since it’s launch The Bitfury group now considers itself as the world leader in emerging technologies, and its mission has now been broadened to make the world more secure and trusted through the use of technologies such as artificial intelligence, blockchain, bitcoin and high-performance computing. 
 
 * How is the company funded? How much funding have they received?
 
@@ -51,7 +51,7 @@ Bitfury is a private, for-profit company. From 2014 to 2018 Bitfury accepted six
 
 >Some of Exonum’s use cases include, claim management, document verification, and counterfeit prevention. 
 
->Peach: Peach is Bitfury’s fully customizable crypto wallet and payment network. This wallet is available to the public and can be downloaded on any mobile device.  The Peach platform also offers tools for developers to build on the Lightning Network. 
+>>Peach: Peach is Bitfury’s fully customizable crypto wallet and payment network. This wallet is available to the public and can be downloaded on any mobile device.  The Peach platform also offers tools for developers to build on the Lightning Network. 
 
 >The Lighting Network was launched in 2017 by Bitfury and Ripple. The Lightning Network was designed as a second-layer Bitcoin scaling solution. Second Layer or L2 scaling solutions are a way of scaling blockchain applications by moving transactions off-chain and by doing so this increases transaction speed. 
 
@@ -60,15 +60,15 @@ Bitfury is a private, for-profit company. From 2014 to 2018 Bitfury accepted six
 
 * What domain of the financial industry is the company in?
 
-Bitfury’s domain is considered blockchain development and solutions. 
+>>Bitfury’s domain is considered blockchain development and solutions. 
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-Major innovations in this domain include the move from Proof of Work to Proof of Stake, as well as the emergence of smart contracts, DApps and DeFi. 
+>>Major innovations in this domain include the move from Proof of Work to Proof of Stake, as well as the emergence of smart contracts, DApps and DeFi. 
 
 * What are the other major companies in this domain?
 
-Some competitors include, Bitmain, F2pool, LeewayHertz and Unicsoft 
+>>Some competitors include, Bitmain, F2pool, LeewayHertz and Unicsoft 
 
 
 
@@ -76,19 +76,19 @@ Some competitors include, Bitmain, F2pool, LeewayHertz and Unicsoft
 
 *What has been the business impact of this company so far?
 
-With offices across the globe, Bitfury has brought blockchain and data infrastructure to clients in       Europe, Asia, Canada, and Russia. 
+>>With offices across the globe, Bitfury has brought blockchain and data infrastructure to clients in       Europe, Asia, Canada, and Russia. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
->Blockchain development companies base their success on several factors, some of which include the audability, scalability, data management, data security, risk mitigation, transparency, and cost efficiency. 
+>>Blockchain development companies base their success on several factors, some of which include the audability, scalability, data management, data security, risk mitigation, transparency, and cost efficiency. 
 
-I>n regards to these metrics as an industry leader and with its focus on trust and security, Bitfurry exceeds industry expectations. 
+>>In regards to these metrics as an industry leader and with its focus on trust and security, Bitfurry exceeds industry expectations. 
 
 * How is your company performing relative to competitors in the same domain?
 
->Behind Bitmain and F2pool, The Bitfury Group ranks as the third largest blockchain mining operation. 
+>>Behind Bitmain and F2pool, The Bitfury Group ranks as the third largest blockchain mining operation. 
 
->The Bitfury Group is the leading security and infrastructure provider for the Bitcoin Blockchain. 
+>>The Bitfury Group is the leading security and infrastructure provider for the Bitcoin Blockchain. 
 
 
 ## Recommendations
@@ -99,16 +99,16 @@ I would suggest Bitfury to develop and release their own cryptocurrency.
 
 * Why do you think that offering this product or service would benefit the company?
 
->With the development of a currency by opening the network to the public an ICO would allow Bitfury to bring in additional revenue. Having its own coin, similar to the Celcius Network, BlockFi and the Lending Protocol AAVE,  Bitfuty could offer additional services such as borrowing, lending, staking and reward payments. Offering services such as these could dramatically increase Bitfury’s user base. 
+>>With the development of a currency by opening the network to the public an ICO would allow Bitfury to bring in additional revenue. Having its own coin, similar to the Celcius Network, BlockFi and the Lending Protocol AAVE,  Bitfuty could offer additional services such as borrowing, lending, staking and reward payments. Offering services such as these could dramatically increase Bitfury’s user base. 
 
 
 * What technologies would this additional product or service utilize?
 
->This currency would be native to the exonum blockchain, and it should depend on more modern solutions such as proof of stake and sharding.
+>>This currency would be native to the exonum blockchain, and it should depend on more modern solutions such as proof of stake and sharding.
 
 * Why are these technologies appropriate for your solution?
 
->Relative to other coins suchs as ADA, NEO, EOS, and XPR even with Layer2 is Bitcoin is still slow, less cost efficient, and less energy efficient. Building its own cryptocurrency to run on Exonum could help tackle some of Bitcoin’s short fallings. 
+>>Relative to other coins suchs as ADA, NEO, EOS, and XPR even with Layer2 is Bitcoin is still slow, less cost efficient, and less energy efficient. Building its own cryptocurrency to run on Exonum could help tackle some of Bitcoin’s short fallings. 
 
 
 
